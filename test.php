@@ -43,5 +43,5 @@ for ($b = 0; $b != 2; $b++ ) {
 
 header('Content-type: image/png');
 imagepng($im);
-
+//xui
 ?>
