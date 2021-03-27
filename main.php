@@ -9,7 +9,7 @@
 <form id="head" action="proverka.php" method="post" class="ramka">
 
     <div >
-        <img src="mail.php">
+        <img src="test.php">
     </div>
  
     <div >
