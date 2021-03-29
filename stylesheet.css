@@ -1,0 +1,43 @@
+div {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+#head {
+    text-align: center;
+    margin-top: 230px;
+}
+
+#button{
+    border: 1px solid grey;
+    margin-left: 137px;
+    border-radius: 5px;
+    background: green;
+    padding: 5px;
+    color: white;
+}
+
+#surname{
+    padding-right: 18px;
+}
+
+
+body {
+    background-attachment: scroll;
+}
+
+.backgrnd{
+    background: #313331;
+    background-size: 50% auto;
+    color: white;
+    padding: 2px;
+    margin-right: 538px;
+    margin-left: 550px;
+    border-radius: 3px;
+}
+
+#kaptcha {
+    text-align: center;
+    margin-top: 300px;
+}
