@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link href="myrk.css" rel="stylesheet" type="text/css">
+    <link href="stylesheet.css" rel="stylesheet" type="text/css">
 </head>
 <body background="5a9ee783c3f3a.jpg">
-<form id="head" action="proverka.php" method="post" class="ramka">
+<form id="head" action="proverka.php" method="post" class="backgrnd">
 
     <div >
-        <img src="test.php">
+        <img src="mail.php">
     </div>
  
     <div >
@@ -18,7 +18,7 @@
     </div>
 
     <div>
-        <input id="knopka" type="submit" name="send">
+        <input id="button" type="submit" name="send">
     </div>
 
 </form>
